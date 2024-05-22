@@ -6,7 +6,7 @@ from keras.models import load_model
 from PIL import Image
 
 # Define path to the Keras model file
-MODEL_FILE = "model/keras_model.h5"
+MODEL_FILE = "keras_model.h5"
 
 # Load the Keras model
 model = load_model(MODEL_FILE)
