@@ -1,0 +1,4 @@
+0 cataract
+1 diabetic_retinopathy
+2 glaucoma
+3 normal
