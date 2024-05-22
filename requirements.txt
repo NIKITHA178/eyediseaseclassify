@@ -3,4 +3,4 @@ opencv-python
 numpy
 Pillow
 tensorflow==2.9.1
-pip install -r requirements.txt
+
